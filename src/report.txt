@@ -1,0 +1,6 @@
+I have tested this program and there are no known issues.
+
+I implement the function which enlarge the photo or narrow the photo. Also added a fit button which will fir the photo to panel again.
+enlarge besically is zoom in, shows more detail on the screen. Narrow is zoom out. In case the user want to see the original photo or want to fit the image to panel I added fit button which does that.
+
+file path String is at line 63
